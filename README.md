@@ -111,6 +111,7 @@ GAIA_agent
 
 ### **1. Clone Repository**
 ```bash
+
 git clone git@github.com:datt46999/GAIA_Agent.git
 cd gaia-agent
 ```
@@ -122,14 +123,17 @@ pip install -r requirements.txt
 
 ### **3. Environment Variables**
 
-<!-- SUPABASE_URL=https://xxxxxxxxxxxxxxxxxxxxx.supabase.co -->
-SUPABASE_URL=
-SUPABASE_SERVICE_ROLE_KEY=
-GROQ_API_KEY=
-OPENAI_API_KEY=
-TAVILY_API_KEY=
-HUGGINGFACEHUB_API_TOKEN=
-LANGSMITH_API_KEY=
+<!-- SUPABASE_URL=https://xxxxxxxxxxxxxxxxxxxxx.supabase.co --> 
+
+Create a `.env` file with your API keys:
+```
+SUPABASE_URL=your_supabase_url
+SUPABASE_SERVICE_ROLE_KEY=your_supabase_key
+GROQ_API_KEY=your_groq_api_key
+OPENAI_API_KEY=your_openai_api_key
+TAVILY_API_KEY=your_tavily_api_key
+HUGGINGFACEHUB_API_TOKEN=your_hf_token
+LANGSMITH_API_KEY=your_langsmith_key
 
 
 LANGSMITH_TRACING=true
@@ -137,7 +141,7 @@ LANGCHAIN_TRACING_V2=false
 
 LANGSMITH_PROJECT=model_agent
 LANGSMITH_ENDPOINT=https://api.smith.langchain.com
-
+```
 ### **4. Database Setup (Supabase)**
 Execute this SQL in your Supabase database:
 ```sql
