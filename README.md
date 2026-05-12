@@ -110,7 +110,7 @@ GAIA_agent
 
 ### **1. Clone Repository**
 ```bash
-git clone 
+git clone git@github.com:datt46999/GAIA_Agent.git
 cd gaia-agent
 ```
 
