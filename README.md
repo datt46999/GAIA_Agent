@@ -51,7 +51,8 @@ GAIA_agent
 
 ### **LangGraph State Machine**
 
-![alt text](image.png)
+<img width="425" height="501" alt="image" src="https://github.com/user-attachments/assets/a724858b-3de6-4e3a-acb4-3f6b97747cd5" />
+
 
 
 
