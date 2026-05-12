@@ -33,7 +33,7 @@ GAIA_agent
 | 		|----Mathenmatical.py
 | 		|----document_proccesing.py
 | 		|----image_generate.py
-|			|----mathematical.py
+|		|----mathematical.py
 |
 |-----data
 | 		|----explore_metadata.ipynb
