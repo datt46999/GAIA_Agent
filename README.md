@@ -6,6 +6,7 @@
 **GAIA Agent** is a sophisticated AI-powered chatbot system designed to handle complex questions and tasks through an intuitive Q&A interface. Built on top of the GAIA benchmark framework, this agent combines advanced reasoning, code execution, web search, document processing, and multimodal understanding capabilities. The system features both a user-friendly chatbot interface and a comprehensive evaluation runner for benchmark testing.
 
 
+
 # **Key Features**
 
 - **🔍 Multi-Modal Search**: Web search, Wikipedia, and arXiv paper search
@@ -186,7 +187,16 @@ ALTER TABLE public.documents2 DISABLE ROW LEVEL SECURITY;
 
 ## 🚀 **Running the Application**
 
-### **Chatbot Interface**
+### **Run**
 ```bash
 python app.py
 ```
+Access at: `http://localhost:7860`
+
+## 🔗 **Resources**
+
+- [GAIA Benchmark](https://huggingface.co/spaces/gaia-benchmark/leaderboard)
+- [Hugging Face Agents Course](https://huggingface.co/agents-course)
+- [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
+- [Supabase Vector Store](https://supabase.com/docs/guides/ai/vector-columns)
+
