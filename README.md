@@ -23,21 +23,21 @@
 GAIA_agent
 ```
 |-----agent
-| 				|----__init__.py
-| 				|----agent.py
+| 		|----__init__.py
+| 		|----agent.py
 |
 |-----tools
-| 				|----__init__.py
-| 				|----Search.py
-| 				|----code_interpreter.py
-| 				|----Mathenmatical.py
-| 				|----document_proccesing.py
-| 				|----image_generate.py
-|				|----mathematical.py
+| 		|----__init__.py
+| 		|----Search.py
+| 		|----code_interpreter.py
+| 		|----Mathenmatical.py
+| 		|----document_proccesing.py
+| 		|----image_generate.py
+|			|----mathematical.py
 |
 |-----data
-| 				|----explore_metadata.ipynb
-| 				|----metadata.jsonl
+| 		|----explore_metadata.ipynb
+| 		|----metadata.jsonl
 |
 |-----app.py
 |-----requirements.txt
