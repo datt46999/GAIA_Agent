@@ -1,5 +1,5 @@
 
-**GAIA Agent - Advanced Q&A Chatbot**
+**GAIA Agent - Advanced **
 
 # 🌟 **Introduction**
 
