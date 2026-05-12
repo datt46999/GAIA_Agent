@@ -21,7 +21,7 @@
 
 **Project Structure**
 GAIA_agent
-
+```
 |-----agent
 | 				|----__init__.py
 | 				|----agent.py
@@ -44,7 +44,7 @@ GAIA_agent
 |-----system_prompt.txt
 
 
-
+```
 
 
 # 🔧 **Technical Architecture**
