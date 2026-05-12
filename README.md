@@ -38,7 +38,7 @@ GAIA_agent
 |		|----mathematical.py
 |
 |-----data
-| 		|----explore_metadata.ipynb
+| 		|----explore_metadata.ipynb #push data to supabase vectorstore for retriever
 | 		|----metadata.jsonl
 |
 |-----app.py
