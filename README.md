@@ -59,7 +59,7 @@ GAIA_agent
 
 
 1. **Retriever Node**: Searches vector database for similar questions
-2. **Assistant Node**: LLM processes question with available tools
+2. **Assistant Node**: LLM processes question with available tools  # using:qwen/qwen3-32b 
 3. **Tools Node**: Executes selected tools (web search, code, etc.)
 4. **Conditional Routing**: Dynamically routes between assistant and tools
 
