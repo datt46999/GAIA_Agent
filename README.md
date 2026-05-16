@@ -1,5 +1,5 @@
 
-**GAIA Agent - Advanced **
+** GAIA Agent - Advanced **
 
 # 🌟 **Introduction**
 
